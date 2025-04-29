@@ -54,7 +54,7 @@
           // process
           if ($userNumber === $randomNumber) {
             // output
-            echo "The number " . $userNumber . " was the correct number";
+            echo "The number " . $userNumber . " was the correct number.<br/>";
           }
           // process
           if ($userNumber === $randomNumber) {
